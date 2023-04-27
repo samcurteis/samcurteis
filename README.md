@@ -8,7 +8,7 @@ I’m a junior software developer with previous experience teaching English as a
 
 - 👨‍💻 All of my deployed projects are available at [samuelcurteis.dev](samuelcurteis.dev)
 
-- 📫 How to reach me: samcurteis@gmail.com | +44 7578 540 842 | [https://www.linkedin.com/in/samcurteis/](in/samcurteis)
+- 📫 How to reach me: samcurteis@gmail.com | +44 7578 540 842 | [in/samcurteis](https://www.linkedin.com/in/samcurteis/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
