@@ -6,7 +6,7 @@ I’m a junior software developer with previous experience teaching English as a
 
 - 🌱 I’m currently learning **Redux and Jest**
 
-- 👨‍💻 All of my deployed projects are available at [samuelcurteis.dev](samuelcurteis.dev)
+- 👨‍💻 Check out my portfolio at [samuelcurteis.dev](samuelcurteis.dev)
 
 - 📫 How to reach me: samcurteis@gmail.com | +44 7578 540 842 | [in/samcurteis](https://www.linkedin.com/in/samcurteis/)
 
