@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋 I'm Sam</h1>
 
-I’m a junior software developer with previous experience teaching English as a first and second language. I decided to make the jump into tech because I love pushing myself to always learn more, and as a software engineer, there is always more to learn. I took the Software Engineering Immersive course at General Assembly to dive head first into this new world. Having taught and studied English, I’m fascinated by the power of words and language, and discovering that I can use them to build technologies has been a hugely rewarding experience. I hope to put the new skills I’ve learned to use in an environment which has the same goal in mind as my previous work: to help others to learn and grow.
+I’m a software engineer with previous experience teaching English as a first and second language. I decided to make the jump into tech because I love pushing myself to always learn more, and as a software engineer, there is always more to learn. I took the Software Engineering Immersive course at General Assembly to dive head first into this new world. Having taught and studied English, I’m fascinated by the power of words and language, and discovering that I can use them to build technologies has been a hugely rewarding experience. I hope to put the new skills I’ve learned to use in an environment which has the same goal in mind as my previous work: to help others to learn and grow.
 
-- 🔭 I’m currently working on integrating Redux and testing with Jest/ MSW into [my most recent project](https://github.com/samcurteis/ga-project-4-frontend). (Check out the 'development' branch to see what I've been doing.)
+- 🔭 I’m currently working on integrating Typescript with Redux and testing into [my most recent project](https://github.com/samcurteis/ga-project-4-frontend). (Check out the 'development' branch to see what I've been doing.)
 
-- 🌱 I’m currently learning **Redux and Jest**
+- 🌱 I’m currently learning **Typescript**
 
 - 👨‍💻 Check out my portfolio at [samuelcurteis.dev](samuelcurteis.dev)
 
