@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Sam</h1>
 
-I’m a software engineer with previous experience teaching English as a first and second language. I decided to make the jump into tech because I love pushing myself to always learn more, and as a software engineer, there is always more to learn. I took the Software Engineering Immersive course at General Assembly to dive head first into this new world. Having taught and studied English, I’m fascinated by the power of words and language, and discovering that I can use them to build technologies has been a hugely rewarding experience. I hope to put the new skills I’ve learned to use in an environment which has the same goal in mind as my previous work: to help others to learn and grow.
+I’m a software engineer with a previous career in teaching English as a first and second language. I made the jump into tech to combine my strengths in communication and problem-solving with a desire to build solutions that improves people’s lives. My teaching background helps me keep the end user at the centre of my work, collaborate effectively with colleagues, and manage stakeholder relationships with clarity and empathy. Having had more than one career allows me to approach my work with a fresh perspective, learn quickly, and do away with what doesn't work in pursuit of what does.
 
 - 🔭 I’m currently working on integrating Typescript with Redux and testing into [my most recent project](https://github.com/samcurteis/ga-project-4-frontend). (Check out the 'development' branch to see what I've been doing.)
 
