@@ -4,8 +4,6 @@ I’m a software engineer with a previous career in teaching English as a first 
 
 - 🔭 I’m currently working on and learning about building [a software factory](https://github.com/samcurteis/factory).
 
-- 🌱 I’m currently learning **Typescript**
-
 - 👨‍💻 Check out my portfolio at [samuelcurteis.dev](samuelcurteis.dev) (update coming soon!)
 
 - 📫 How to reach me: samcurteis@gmail.com | +44 7578 540 842 | [in/samcurteis](https://www.linkedin.com/in/samcurteis/)
