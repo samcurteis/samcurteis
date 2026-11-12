@@ -2,11 +2,11 @@
 
 I’m a software engineer with a previous career in teaching English as a first and second language. I made the jump into tech to combine my strengths in communication and problem-solving with a desire to build solutions that improves people’s lives. My teaching background helps me keep the end user at the centre of my work, collaborate effectively with colleagues, and manage stakeholder relationships with clarity and empathy. Having had more than one career allows me to approach my work with a fresh perspective, learn quickly, and do away with what doesn't work in pursuit of what does.
 
-- 🔭 I’m currently working on integrating Typescript with Redux and testing into [my most recent project](https://github.com/samcurteis/ga-project-4-frontend). (Check out the 'development' branch to see what I've been doing.)
+- 🔭 I’m currently working on and learning about building [a software factory](https://github.com/samcurteis/factory).
 
 - 🌱 I’m currently learning **Typescript**
 
-- 👨‍💻 Check out my portfolio at [samuelcurteis.dev](samuelcurteis.dev)
+- 👨‍💻 Check out my portfolio at [samuelcurteis.dev](samuelcurteis.dev) (update coming soon!)
 
 - 📫 How to reach me: samcurteis@gmail.com | +44 7578 540 842 | [in/samcurteis](https://www.linkedin.com/in/samcurteis/)
 
